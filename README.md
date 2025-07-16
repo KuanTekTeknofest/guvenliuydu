@@ -1,1 +1,2 @@
-# guvenliuydu
+# Güvenli Uydu Haberleşmesi
+FREKANS ATLAMALI VE FİZİKSEL KATMANLI GÜVENLİ HABERLEŞME SİSTEMİ
